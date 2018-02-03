@@ -1,5 +1,4 @@
 # NBA-Data-Visualization
 
-Visualizations of statistics for NBA players
+This project visualizes the statistics for NBA player, over the course of a season, and how he's performance contributes to his team.
 
-Hopefully will turn this into a blog post soon
