@@ -1,2 +1,5 @@
-# NBA-player-data-visualization
-Visualization of NBA plays' performance data
+# NBA-Data-Visualization
+
+Visualizations of statistics for NBA players
+
+Hopefully will turn this into a blog post soon
